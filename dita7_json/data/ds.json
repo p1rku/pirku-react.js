@@ -1,0 +1,7 @@
+{
+  "list": [
+    { "id": 1, "name": "Amaar", "age": 15, "city": "Prizren" },
+    { "id": 2, "name": "Maar", "age": "Unknown", "city": "Unknown" },
+    { "id": 3, "name": "Pirku", "age": 15, "city": "Prizren" }
+  ]
+}
