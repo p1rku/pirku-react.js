@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "router-dom": "^3.0.3"
+    "router-dom": "^3.0.3",
+    "swiper": "^12.0.3"
   }
 }
